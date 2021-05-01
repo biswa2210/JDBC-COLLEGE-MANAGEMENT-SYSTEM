@@ -75,6 +75,7 @@ JDBC Connectivity:
 We have successfully established a connection with the relation database model and created a new database called “college_management” using mysql . With the specified root route and in the specified location (here localhost ) with particular username and password we have established a smooth connection with our java project. Handling records and searching for them becomes easier which such database management system.
  We used a table “students”,”students_attendence”,”staffs”,”staffs_attendence” in our database and created number of  array  in order to check if multiple records of same student or staff  is being entered the entry is being declined stating that the above student staff  already exists. Various such check-in’s had been added to avoid duplication of data entry of redundancy. Such error handling easy searching and safer security of storing data is only being established with the help of this JDBC connectivity.
 A JAR is a package file format was included in order to provide the connectivity of our database , typically used to aggregate many Java class files and associated metadata and resources into one file for distribution. JAR files are archive files that include a Java-specific manifest file. They are built on the ZIP format and typically have a .jar file extension.
+
 ## Screenshots :point_down: 
 <div align="center">
 <a href="cms1.png"><img src="cms1.png" width="400" height= "280"></a> <a href="cms2.png"><img src="cms2.png" width="400" height= "280"></a>
