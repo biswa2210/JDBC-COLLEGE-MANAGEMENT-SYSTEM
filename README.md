@@ -48,10 +48,73 @@ The above mentioned points are the enhancements which can be done to increase th
 Enhancements can be done to maintain all the College, Student, Fees, Employee, Faculty. We have left all the options open so that if there is any other future requirement in the system by the user for the enhancement of the system then it is possible to implement them. In the last we would like to thanks all the persons involved in the development of the system directly or indirectly. We hope that the project will serve its purpose for which it is develop there by underlining success of process.
 ## Folder Structure :point_down:
 ```bash
-
-     ├── .idea
-
-     └── rootwallpaper.jpg 
+JDBC-STUDENT-MANAGEMENT-SYSTEM
+     ├── .settings
+     |       └── org.eclipse.jdt.core.prefs
+     ├── bin
+     |     ├── com 
+     |     |    ├── staff
+     |     |    |      ├── attendence
+     |     |    |      |        ├── Attendence.class
+     |     |    |      |        ├── ConnectionEstablish.class
+     |     |    |      |        └── ConnectionOpratios.class
+     |     |    |      └── record
+     |     |    |               ├── ConnectionFetcher.class
+     |     |    |               ├── ConnectionOpratios.class
+     |     |    |               └── staff.class
+     |     |    └── student
+     |     |           ├── attendence
+     |     |           |        ├── Attendence.class
+     |     |           |        ├── ConnectionEstablish.class
+     |     |           |        └── ConnectionOpratios.class
+     |     |           └── manage
+     |     |                    ├── ConnectionMethods.class
+     |     |                    ├── ConnectionProvider.class
+     |     |                    └── student.class
+     |     ├── MenuItems.class
+     |     ├── Navigations.class
+     |     ├── Operations.class
+     |     ├── Operation2.class
+     |     ├── StaffRecord.class
+     |     ├── Start.class
+     |     └── StudentRecord.class
+     ├── src
+     |     ├── com 
+     |     |    ├── staff
+     |     |    |      ├── attendence
+     |     |    |      |        ├── Attendence.java
+     |     |    |      |        ├── ConnectionEstablish.java
+     |     |    |      |        └── ConnectionOpratios.java
+     |     |    |      └── record
+     |     |    |               ├── ConnectionFetcher.java
+     |     |    |               ├── ConnectionOpratios.java
+     |     |    |               └── staff.java
+     |     |    └── student
+     |     |           ├── attendence
+     |     |           |        ├── Attendence.java
+     |     |           |        ├── ConnectionEstablish.java
+     |     |           |        └── ConnectionOpratios.java
+     |     |           └── manage
+     |     |                    ├── ConnectionMethods.class
+     |     |                    ├── ConnectionMethods.java
+     |     |                    ├── ConnectionProvider.class
+     |     |                    ├── ConnectionProvider.java
+     |     |                    ├── Student.java
+     |     |                    └── Student.class
+     |     ├── MenuItems.class
+     |     ├── MenuItems.java
+     |     ├── Navigations.class
+     |     ├── Navigations.java
+     |     ├── Operations.class
+     |     ├── Operation2.class
+     |     ├── StaffRecord.java
+     |     ├── Start.class
+     |     ├── Start.java
+     |     ├── StudentRecord.java   
+     |     └── StudentRecord.class    
+     ├── .classpath
+     └── .project
+     
 ```                       
 
 ## Making :point_down:
