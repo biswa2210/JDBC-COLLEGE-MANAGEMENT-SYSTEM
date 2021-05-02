@@ -19,6 +19,7 @@ Staff and Faculty Records Panel
 Staffs Attendance Panel
 EXISTING SYSTEM:
 In the existing system all the works are done manually. Students have to fill up admission form on paper and all the records are maintained on paper file. In this system it is very difficult to find any information. And it is very difficult to maintain the fees and accounting reports of college in proper way.
+
 ## Purpose :point_down:
 The main objective of the Project on College Management System is to manage the details of College, Student, Fees, Employee, Faculty. It manages all the information about College, Salary, Faculty, College. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is
 to build an application program to reduce the manual work for managing the College, Student, Salary, Fees. It tracks all the details about the Fees, Employee, Faculty.
@@ -26,12 +27,16 @@ to build an application program to reduce the manual work for managing the Colle
 Aims and Objectives:
 •	To produce a Java based database connected (JDBC) software system that allow customer data entry and reserve a particular model of car for a specified period of time and effectively manage their car rental system
 •	To ease handling customers rented record.
+
 ## Use :point_down:
+User has to run the project after opening it in eclipse or idea intellij. Then he has to see the menu. Accordingly he can choose options for specific tasks like adding records, deleting, searching or view records. These types of tasks can be done easily. Wrong credentials will note be taken. If same type of record for some specific cases is given then the program will not work for that. After using user can exit the program. From SQL environment also database can be accessed. This program is made with just real world idea. It is simple and efficient.
+
 ## Application and Discussion :point_down:
 The "College Management System" has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardships faced by this existing system. Moreover, this system is designed for the particular need of the company to carry out operations in a smooth and effective manner. The application is reduced as much as possible to avoid errors while entering the data. It also provides error message while entering invalid data. No formal knowledge is needed for the user to use this system. Thus by this all it proves it is user-friendly.
 College Management System, as described above, can lead to error free, secure, reliable and fast management system. It can assist the user to concentrate on their other activities rather to concentrate on the record keeping. Thus, it will help organization in better utilization of resources.
 Every organization, whether big or small, has challenges to overcome and managing the information of Student, College, Employee, Salary, Faculty. Every College Management System has different College needs, therefore we design exclusive employee management systems that are adapted to your managerial requirements.
 This is designed to assist in strategic planning, and will help you ensure that your organization is equipped with the right level of information and details for your future goals. Also, for those busy executive who are always on the go, our systems come with remote access features, which will allow you to manage your workforce anytime, at all times. These systems will ultimately allow you to better manage resources.
+
 ## Future Scopes :point_down:
 In a nutshell, it can be summarized that the future scope of the project circles
 around maintaining information regarding:
@@ -46,6 +51,7 @@ database queries
 on regular basis on different servers
 The above mentioned points are the enhancements which can be done to increase the applicability and usage of this project. Here we can maintain the records of College and Student. Also, as it can be seen that now-a-days the players are versatile, i.e. so there is a scope for introducing a method to maintain the College Management System.
 Enhancements can be done to maintain all the College, Student, Fees, Employee, Faculty. We have left all the options open so that if there is any other future requirement in the system by the user for the enhancement of the system then it is possible to implement them. In the last we would like to thanks all the persons involved in the development of the system directly or indirectly. We hope that the project will serve its purpose for which it is develop there by underlining success of process.
+
 ## Folder Structure :point_down:
 ```bash
 JDBC-STUDENT-MANAGEMENT-SYSTEM
