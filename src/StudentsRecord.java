@@ -2,6 +2,11 @@ import java.util.Scanner;
 import com.student.manage.ConnectionMethods;
 import com.student.manage.Student;
 public class StudentsRecord {
+	/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 	public static void addStudent() {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("ENTER THE NAME OF THE STUDENT :: ");
