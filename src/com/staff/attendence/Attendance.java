@@ -10,6 +10,11 @@ public class Attendance {
 	public int getStaffid() {
 		return staffid;
 	}
+	/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 	public void setStaffid(int staffid) {
 		this.staffid = staffid;
 	}
