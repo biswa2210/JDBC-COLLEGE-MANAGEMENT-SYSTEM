@@ -1,6 +1,11 @@
 package com.student.manage;
 import java.sql.*;
 import java.util.*;
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 public class ConnectionMethods {
   public static boolean InsertStudentToDB(Student st) {
 	  boolean success=false;
