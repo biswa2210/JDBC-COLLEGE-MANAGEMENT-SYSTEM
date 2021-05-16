@@ -18,7 +18,33 @@
      
 The main objective of college management system is to automate all functionalities of a college or university. Using this system you can manage all college management work like admission, fees submission, time table management and result declaration. Using this college management system you can view or update data and information about students and staff easily. This system helps in managing the activity like student admission, student registration, fees submission. Admin can also retrieve information of employee student. The COLLEGE MANAGEMENT SYSTEM can be used to store student information like attendance, fees, and student result etc. admin can create report regarding any student any time using this system. Using this system, you can register new student and their course details. You can submit students’ fees and can check fees details anytime. You can create exam result and submit in this system. Student can check their result online by logging to the system. You can also add new employee in the system and can check details of the employee easily. Student can also check course detail online from this system. Using this system you can manage all information of all aspects of a college, its students, faculties, Departments, marks and other curricular activities. College management system provides the easiest way to manage all functionalities of a college. This system facilitates colleges to maintain the functionality related to college employees and their students. College Management System can store and manage all data of the various departments of a college like Administration, Attendance, Staff details etc. using this system user can retrieve any information related to student, teacher and fees. Using this system teacher can check student attendance anytime. This system also help teacher to announce the result. College administration can also manage college work easily. Admin can check leave, salary and other details of teacher any time. They can also create time table of classes from this system. The Library module is used for the data process of library and book accessing for students and staffs Admin can also generate following reports from this system like Students Record Panel Students Attendance Panel Staff and Faculty Records Panel Staffs Attendance Panel EXISTING SYSTEM: In the existing system all the works are done manually. Students have to fill up admission form on paper and all the records are maintained on paper file. In this system it is very difficult to find any information. And it is very difficult to maintain the fees and accounting reports of college in proper way.
  </div>
-
+## Total lists of options in menu :point_down:
+1. Students Record Panel<br>
+ - Add Student<br>
+ - Delete Student<br>
+ - Search Student<br>
+ - Update Phone<br>
+2. Students Attendence Records Admin Panel<br>
+ - Add Attendence<br>
+ - Fetch Attendence Details<br>
+ - All Attendence<br>
+ - Total Class IDs<br>
+ - Search Student<br>
+ - Delete Record by Serial Number<br>
+3. Staffs Records Admin Panel<br>
+ - Add Staff<br>
+ - Delete Staff<br>
+ - Dsiplay Staffs<br>
+ - Search Staff<br>
+ - Update Phone<br>
+4. Staffs Attendence Records Admin Panel<br>
+  - Add Attendence<br>
+  - Fetch Attendence Details<br>
+  - All Attendence<br>
+  - Total Dates<br>
+  - Search Staff<br>
+  - Delete Record by Serial Number<br>
+ 
 ## Purpose :point_down:
 
 <div align="justified">
@@ -135,7 +161,9 @@ JDBC-STUDENT-MANAGEMENT-SYSTEM
      └── .project
      
 ```                       
-
+<details>
+     <summary>"To read about MAKING OF THIS PROJECT click here"</summary>
+     
 ## Making :point_down:
 
 <div align="justified">
@@ -161,6 +189,7 @@ We have successfully established a connection with the relation database model a
  We used a table “students”,”students_attendence”,”staffs”,”staffs_attendence” in our database and created number of  array  in order to check if multiple records of same student or staff  is being entered the entry is being declined stating that the above student staff  already exists. Various such check-in’s had been added to avoid duplication of data entry of redundancy. Such error handling easy searching and safer security of storing data is only being established with the help of this JDBC connectivity.
 A JAR is a package file format was included in order to provide the connectivity of our database , typically used to aggregate many Java class files and associated metadata and resources into one file for distribution. JAR files are archive files that include a Java-specific manifest file. They are built on the ZIP format and typically have a .jar file extension.
 </div>
+</details>
 
 ## Screenshots :point_down:
 
