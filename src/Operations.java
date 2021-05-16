@@ -3,7 +3,11 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.*;
 import com.student.attedence.*;
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 public class Operations {
 	public static void addAttendence() {
 		String[] secs=ConnectionOpratios.secArray();
