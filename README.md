@@ -175,7 +175,7 @@ A JAR is a package file format was included in order to provide the connectivity
 
 <a href="pics/cms5.png"><img src="pics/cms5.png" width="800" height= "280"></a> 
 
-<a href="pics/cms6.png"><img src="cms6.png" width="800" height= "280"></a>
+<a href="pics/cms6.png"><img src="pics/cms6.png" width="800" height= "280"></a>
 
 <a href="cms7.png"><img src="pics/cms7.png" width="800" height= "280"></a> 
 
