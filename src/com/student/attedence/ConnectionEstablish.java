@@ -2,6 +2,11 @@ package com.student.attedence;
 import java.sql.*;
 public class ConnectionEstablish {
 	static Connection con;
+	/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 	public static Connection createRelation() {
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
