@@ -196,51 +196,51 @@ A JAR is a package file format was included in order to provide the connectivity
 ## Screenshots :point_down:
 
 <div align="center">
-<a href="pics/cms1.png"><img src="pics/cms1.png" width="800" height= "280"></a> 
+<a href="pics/cms1.png"><img src="pics/cms1.png" width="800" height= "300"></a> 
      
-<a href="pics/cms2.png"><img src="pics/cms2.png" width="800" height= "280"></a>
+<a href="pics/cms2.png"><img src="pics/cms2.png" width="800" height= "300"></a>
 
-<a href="pics/cms3.png"><img src="pics/cms3.png" width="800" height= "280"></a> 
+<a href="pics/cms3.png"><img src="pics/cms3.png" width="800" height= "300"></a> 
 
-<a href="pics/cms4.png"><img src="pics/cms4.png" width="800" height= "280"></a>
+<a href="pics/cms4.png"><img src="pics/cms4.png" width="800" height= "300"></a>
 
-<a href="pics/cms5.png"><img src="pics/cms5.png" width="800" height= "280"></a> 
+<a href="pics/cms5.png"><img src="pics/cms5.png" width="800" height= "300"></a> 
 
-<a href="pics/cms6.png"><img src="pics/cms6.png" width="800" height= "280"></a>
+<a href="pics/cms6.png"><img src="pics/cms6.png" width="800" height= "300"></a>
 
-<a href="cms7.png"><img src="pics/cms7.png" width="800" height= "280"></a> 
+<a href="pics/cms7.png"><img src="pics/cms7.png" width="800" height= "300"></a> 
 
-<a href="pics/cms8.png"><img src="pics/cms8.png" width="800" height= "280"></a>
+<a href="pics/cms8.png"><img src="pics/cms8.png" width="800" height= "300"></a>
 
-<a href="pics/cms9.png"><img src="pics/cms9.png" width="800" height= "280"></a> 
+<a href="pics/cms9.png"><img src="pics/cms9.png" width="800" height= "300"></a> 
 
-<a href="pics/cms10.png"><img src="pics/cms10.png" width="800" height= "280"></a>
+<a href="pics/cms10.png"><img src="pics/cms10.png" width="800" height= "300"></a>
 
-<a href="pics/cms11.png"><img src="pics/cms11.png" width="800" height= "280"></a> 
+<a href="pics/cms11.png"><img src="pics/cms11.png" width="800" height= "300"></a> 
 
-<a href="pics/cms12.png"><img src="pics/cms12.png" width="800" height= "280"></a>
+<a href="pics/cms12.png"><img src="pics/cms12.png" width="800" height= "300"></a>
 
-<a href="pics/cms13.png"><img src="pics/cms13.png" width="800" height= "280"></a> 
+<a href="pics/cms13.png"><img src="pics/cms13.png" width="800" height= "300"></a> 
 
-<a href="pics/cms14.png"><img src="pics/cms14.png" width="800" height= "280"></a>
+<a href="pics/cms14.png"><img src="pics/cms14.png" width="800" height= "300"></a>
 
-<a href="pics/cms15.png"><img src="pics/cms15.png" width="800" height= "280"></a> 
+<a href="pics/cms15.png"><img src="pics/cms15.png" width="800" height= "300"></a> 
 
-<a href="pics/cms16.png"><img src="pics/cms16.png" width="800" height= "280"></a>
+<a href="pics/cms16.png"><img src="pics/cms16.png" width="800" height= "300"></a>
 
-<a href="pics/cms17.png"><img src="pics/cms17.png" width="800" height= "280"></a> 
+<a href="pics/cms17.png"><img src="pics/cms17.png" width="800" height= "300"></a> 
 
-<a href="pics/cms18png"><img src="pics/cms18.png" width="800" height= "280"></a>
+<a href="pics/cms18png"><img src="pics/cms18.png" width="800" height= "300"></a>
 
-<a href="pics/cms19.png"><img src="pics/cms19.png" width="800" height= "280"></a> 
+<a href="pics/cms19.png"><img src="pics/cms19.png" width="800" height= "300"></a> 
 
-<a href="pics/cms20.png"><img src="pics/cms20.png" width="800" height= "280"></a>
+<a href="pics/cms20.png"><img src="pics/cms20.png" width="800" height= "300"></a>
 
-<a href="pics/cms21.png"><img src="pics/cms21.png" width="800" height= "280"></a> 
+<a href="pics/cms21.png"><img src="pics/cms21.png" width="800" height= "300"></a> 
 
-<a href="pics/cms22.png"><img src="pics/cms22.png" width="800" height= "280"></a>
+<a href="pics/cms22.png"><img src="pics/cms22.png" width="800" height= "300"></a>
 
-<a href="pics/cms23.png"><img src="pics/cms23.png" width="800" height= "280"></a> 
+<a href="pics/cms23.png"><img src="pics/cms23.png" width="800" height= "300"></a> 
 
 </div>
 
