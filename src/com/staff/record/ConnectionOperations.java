@@ -2,7 +2,11 @@ package com.staff.record;
 
 import java.sql.*;
 import java.util.*;
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 public class ConnectionOperations {
   public static boolean InsertStudentToDB(Staff st) {
 	  boolean success=false;
